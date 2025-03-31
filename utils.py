@@ -5,5 +5,8 @@ def add(a, b):
     return a + b
 
 def multipli(a, b) : 
+     """
+     Fonction qui multiplie deux fonctions 
      
+     """
      return a*b 
