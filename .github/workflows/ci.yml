@@ -2,7 +2,7 @@ name: CI
 
 on:
   push:
-    branches: [ main, master, ndom2748 ]
+    branches: [ main, master, ndom2847 ]
   pull_request:
     branches: [ main, master ]
 
